@@ -1,0 +1,8 @@
+- He afegit música de fons i efectes de so.
+- He establert una animació cada cop que es salva una ovella.
+- He implementat el canvi d'escenes i la possibilitat d'escollir el color de la màquina a la pantalla d'inici.
+- He inclòs comptadors que indiquen visualment a la pantalla quantes ovelles has salvat i quantes no han estat salvades.
+- He tingut en compte que si una ovella impacta amb la màquina, es considera que ha estat salvada.
+
+El joc es guanya un cop has salvat 10 ovelles
+En cas que 3 ovelles caiguin del mapa sense ser salvades, hauràs perdut.
